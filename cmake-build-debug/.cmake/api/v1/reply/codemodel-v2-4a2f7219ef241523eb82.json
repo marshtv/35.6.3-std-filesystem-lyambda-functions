@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.26"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "35_6_3_std_filesystem_lyambda_fuction",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "35_6_3_std_filesystem_lyambda_fuction::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-35_6_3_std_filesystem_lyambda_fuction-Debug-a8dc2cc7d4452ab7a133.json",
+					"name" : "35_6_3_std_filesystem_lyambda_fuction",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "F:/__C++/Skillbox/35 Standards of C++/35.6.3 std-filesystem-lyambda-fuction/cmake-build-debug",
+		"source" : "F:/__C++/Skillbox/35 Standards of C++/35.6.3 std-filesystem-lyambda-fuction"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 5
+	}
+}
